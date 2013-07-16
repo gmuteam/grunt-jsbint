@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "jsbint": "https://github.com/gmuteam/jsbint/tarball/master"
+    "jsbint": "~0.0.4"
   },
   "devDependencies": {
     "grunt-contrib-nodeunit": "~0.1.2",
